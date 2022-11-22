@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T09:48:04 GMT" name="Default suite" finished-at="2022-11-22T09:48:12 GMT" duration-ms="8492">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T09:48:04 GMT" name="Default test" finished-at="2022-11-22T09:48:12 GMT" duration-ms="8492">
+      <class name="testng.firsttest">
+        <test-method is-config="true" signature="login()[pri:0, instance:testng.firsttest@194bcebf]" started-at="2022-11-22T09:48:04 GMT" name="login" finished-at="2022-11-22T09:48:12 GMT" duration-ms="8430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="TestLogOut()[pri:0, instance:testng.firsttest@194bcebf]" started-at="2022-11-22T09:48:12 GMT" name="TestLogOut" finished-at="2022-11-22T09:48:12 GMT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogOut -->
+        <test-method signature="TestTheTitle()[pri:0, instance:testng.firsttest@194bcebf]" started-at="2022-11-22T09:48:12 GMT" name="TestTheTitle" finished-at="2022-11-22T09:48:12 GMT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTheTitle -->
+      </class> <!-- testng.firsttest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
